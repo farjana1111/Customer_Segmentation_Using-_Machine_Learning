@@ -1,13 +1,7 @@
 # Customer-Segmentation-using-Machine-Learning
 
-The retailer has hired us to help them create customer clusters, a.k.a "customer segments" through a data-driven approach.
+## Description:
+Developed a data-driven customer segmentation project using transaction-level sales data to identify distinct customer groups. Conducted end-to-end analysis including data cleaning, feature engineering, exploratory data analysis, and clustering with K-Means, considering both aggregate purchase patterns and item-level preferences. Generated actionable insights to guide targeted marketing strategies.
 
-They've provided us a dataset of past purchase data at the transaction level.
-Our task is to build a clustering model using that dataset.
-Our clustering model should factor in both aggregate sales patterns and specific items purchased.
-
-This project is based on Unsupervised Learning.
-
-Input dataset is present in Files folder.
-
-I jupyter Notebbook their is actual coding right from Data Analysis to clustering using K-mean.
+## Tools & Techniques:
+Python (Pandas, NumPy, Matplotlib, Seaborn), Scikit-Learn (K-Means), Jupyter Notebook
